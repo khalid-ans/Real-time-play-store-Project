@@ -1,5 +1,7 @@
 Dashboard URL : https://mdkhaliddashboard.netlify.app/plot_1.html
- Internship Report 
+ 
+ 
+Internship Report 
 
 1. Introduction 
 I am Md Khalid working as Data Analyst Intern. This report summarizes my internship experience, focusing on the analysis of Google Play Store data. The project involved processing and visualizing app data to derive meaningful insights about app ratings, user reviews, revenue, and global trends.
